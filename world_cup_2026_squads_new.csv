@@ -1,0 +1,1249 @@
+﻿index,name,age,country,position,club,jersey_number
+1,Matěj Kovář,26,Czechia,GK,PSV Eindhoven,1
+2,Jindřich Staněk,30,Czechia,GK,Slavia Prague,16
+3,Lukáš Horníček,23,Czechia,GK,Braga,23
+4,David Zima,25,Czechia,CB,Slavia Prague,2
+5,Tomáš Holeš,33,Czechia,CB,Slavia Prague,3
+6,Robin Hranáč,26,Czechia,CB,TSG Hoffenheim,4
+7,Štěpán Chaloupek,23,Czechia,CB,Slavia Prague,6
+8,Ladislav Krejčí,27,Czechia,CB,Wolverhampton Wanderers,7
+9,David Jurásek,25,Czechia,LB,Slavia Prague,14
+10,Jaroslav Zelený,33,Czechia,LB,Sparta Prague,20
+11,Vladimír Coufal,33,Czechia,RB,TSG Hoffenheim,5
+12,David Douděra,28,Czechia,RB,Slavia Prague,21
+13,Lukáš Červ,25,Czechia,CDM,Viktoria Plzeň,12
+14,Tomáš Souček,31,Czechia,CDM,West Ham United,22
+15,Vladimír Darida,35,Czechia,CM,Hradec Králové,8
+16,Lukáš Provod,29,Czechia,CM,Slavia Prague,17
+17,Michal Sadílek,27,Czechia,CM,Slavia Prague,18
+18,Alexandr Sojka,23,Czechia,CM,Viktoria Plzeň,24
+19,Pavel Šulc,25,Czechia,CAM,Lyon,15
+20,Hugo Sochůrek,18,Czechia,CAM,Sparta Prague,25
+21,Adam Hložek,23,Czechia,LW,TSG Hoffenheim,9
+22,Denis Višinský,23,Czechia,RW,Viktoria Plzeň,26
+23,Patrik Schick,30,Czechia,ST,Bayer Leverkusen,10
+24,Jan Kuchta,29,Czechia,ST,Sparta Prague,11
+25,Mojmír Chytil,27,Czechia,ST,Slavia Prague,13
+26,Tomáš Chorý,31,Czechia,ST,Slavia Prague,19
+27,Raúl Rangel,26,Mexico,GK,Guadalajara,1
+28,Carlos Acevedo,30,Mexico,GK,Santos Laguna,12
+29,Guillermo Ochoa,40,Mexico,GK,AEL Limassol,13
+30,César Montes,29,Mexico,CB,Lokomotiv Moscow,3
+31,Johan Vásquez,27,Mexico,CB,Genoa,5
+32,Israel Reyes,26,Mexico,CB,América,15
+33,Mateo Chávez,22,Mexico,LB,AZ,20
+34,Jesús Gallardo,31,Mexico,LB,Toluca,23
+35,Jorge Sánchez,28,Mexico,RB,PAOK,2
+36,Edson Álvarez,28,Mexico,CDM,Fenerbahçe,4
+37,Érik Lira,26,Mexico,CDM,Cruz Azul,6
+38,Obed Vargas,20,Mexico,CDM,Atlético Madrid,18
+39,Luis Romo,31,Mexico,CM,Guadalajara,7
+40,Álvaro Fidalgo,29,Mexico,CM,Real Betis,8
+41,Luis Chávez,30,Mexico,CM,Dynamo Moscow,24
+42,Orbelín Pineda,30,Mexico,CAM,AEK Athens,17
+43,Gilberto Mora,17,Mexico,CAM,Tijuana,19
+44,Brian Gutiérrez,22,Mexico,CAM,Guadalajara,26
+45,Alexis Vega,28,Mexico,LW,Toluca,10
+46,César Huerta,25,Mexico,LW,Anderlecht,21
+47,Julián Quiñones,29,Mexico,RW,Al-Qadsiah,16
+48,Roberto Alvarado,27,Mexico,RW,Guadalajara,25
+49,Raúl Jiménez,35,Mexico,ST,Fulham,9
+50,Santiago Giménez,25,Mexico,ST,AC Milan,11
+51,Armando González,23,Mexico,ST,Guadalajara,14
+52,Guillermo Martínez,31,Mexico,ST,Pumas UNAM,22
+53,Ronwen Williams,34,South Africa,GK,Mamelodi Sundowns,1
+54,Sipho Chaine,29,South Africa,GK,Orlando Pirates,16
+55,Ricardo Goss,32,South Africa,GK,Siwelele,22
+56,Khulumani Ndamane,22,South Africa,CB,Mamelodi Sundowns,3
+57,Mbekezeli Mbokazi,20,South Africa,CB,Chicago Fire FC,14
+58,Nkosinathi Sibisi,30,South Africa,CB,Orlando Pirates,19
+59,Ime Okon,22,South Africa,CB,Hannover 96,21
+60,Olwethu Makhanya,22,South Africa,CB,Philadelphia Union,24
+61,Aubrey Modiba,30,South Africa,LB,Mamelodi Sundowns,6
+62,Samukele Kabini,22,South Africa,LB,Molde,18
+63,Bradley Cross,25,South Africa,LB,Kaizer Chiefs,26
+64,Thabang Matuludi,27,South Africa,RB,Polokwane City,2
+65,Khuliso Mudau,31,South Africa,RB,Mamelodi Sundowns,20
+66,Teboho Mokoena,29,South Africa,CDM,Mamelodi Sundowns,4
+67,Sphephelo Sithole,27,South Africa,CDM,Tondela,13
+68,Thalente Mbatha,26,South Africa,CM,Orlando Pirates,5
+69,Jayden Adams,25,South Africa,CM,Mamelodi Sundowns,23
+70,Themba Zwane,36,South Africa,CAM,Mamelodi Sundowns,11
+71,Oswin Appollis,24,South Africa,LW,Orlando Pirates,7
+72,Relebohile Mofokeng,21,South Africa,LW,Orlando Pirates,10
+73,Tshepang Moremi,25,South Africa,RW,Orlando Pirates,8
+74,Thapelo Maseko,22,South Africa,RW,AEL Limassol,12
+75,Kamogelo Sebelebele,23,South Africa,RW,Orlando Pirates,25
+76,Lyle Foster,25,South Africa,ST,Burnley,9
+77,Iqraam Rayners,30,South Africa,ST,Mamelodi Sundowns,15
+78,Evidence Makgopa,26,South Africa,ST,Orlando Pirates,17
+79,Kim Seung-gyu,35,Republic of Korea,GK,FC Tokyo,1
+80,Song Bum-keun,28,Republic of Korea,GK,Jeonbuk Hyundai Motors,12
+81,Jo Hyeon-woo,34,Republic of Korea,GK,Ulsan HD,21
+82,Lee Han-beom,23,Republic of Korea,CB,Midtjylland,2
+83,Kim Min-jae,29,Republic of Korea,CB,Bayern Munich,4
+84,Kim Tae-hyeon,25,Republic of Korea,CB,Kashima Antlers,5
+85,Cho Wi-je,24,Republic of Korea,CB,Jeonbuk Hyundai Motors,14
+86,Park Jin-seob,30,Republic of Korea,CB,Zhejiang,16
+87,Lee Tae-seok,23,Republic of Korea,LB,Austria Wien,13
+88,Kim Moon-hwan,30,Republic of Korea,RB,Daejeon Hana Citizen,15
+89,Seol Young-woo,27,Republic of Korea,RB,Red Star Belgrade,22
+90,Jens Castrop,22,Republic of Korea,RB,Borussia Mönchengladbach,23
+91,Lee Gi-hyuk,25,Republic of Korea,CM,Gangwon FC,3
+92,Hwang In-beom,29,Republic of Korea,CM,Feyenoord,6
+93,Paik Seung-ho,29,Republic of Korea,CM,Birmingham City,8
+94,Kim Jin-gyu,29,Republic of Korea,CM,Jeonbuk Hyundai Motors,24
+95,Lee Jae-sung,33,Republic of Korea,CAM,Mainz 05,10
+96,Bae Jun-ho,22,Republic of Korea,CAM,Stoke City,17
+97,Lee Dong-gyeong,28,Republic of Korea,CAM,Ulsan HD,26
+98,Son Heung-min,33,Republic of Korea,LW,Los Angeles FC,7
+99,Hwang Hee-chan,30,Republic of Korea,LW,Wolverhampton Wanderers,11
+100,Eom Ji-sung,24,Republic of Korea,LW,Swansea City,25
+101,Lee Kang-in,25,Republic of Korea,RW,Paris Saint-Germain,19
+102,Yang Hyun-jun,24,Republic of Korea,RW,Celtic,20
+103,Cho Gue-sung,28,Republic of Korea,ST,Midtjylland,9
+104,Oh Hyeon-gyu,25,Republic of Korea,ST,Beşiktaş,18
+105,Nikola Vasilj,30,Bosnia and Herzegovina,GK,FC St. Pauli,1
+106,Mladen Jurkas,18,Bosnia and Herzegovina,GK,Borac Banja Luka,12
+107,Martin Zlomislić,27,Bosnia and Herzegovina,GK,Rijeka,22
+108,Nihad Mujakić,28,Bosnia and Herzegovina,CB,Gaziantep,2
+109,Dennis Hadžikadunić,27,Bosnia and Herzegovina,CB,Sampdoria,3
+110,Tarik Muharemović,23,Bosnia and Herzegovina,CB,Sassuolo,4
+111,Nikola Katić,29,Bosnia and Herzegovina,CB,Schalke 04,18
+112,Stjepan Radeljić,28,Bosnia and Herzegovina,CB,Rijeka,21
+113,Arjan Malić,20,Bosnia and Herzegovina,CB,Sturm Graz,24
+114,Sead Kolašinac,32,Bosnia and Herzegovina,LB,Atalanta,5
+115,Amar Dedić,23,Bosnia and Herzegovina,RB,Benfica,7
+116,Benjamin Tahirović,23,Bosnia and Herzegovina,CDM,Brøndby,6
+117,Ivan Šunjić,29,Bosnia and Herzegovina,CDM,Pafos,14
+118,Armin Gigović,24,Bosnia and Herzegovina,CM,Young Boys,8
+119,Ivan Bašić,24,Bosnia and Herzegovina,CM,Astana,13
+120,Amir Hadžiahmetović,29,Bosnia and Herzegovina,CM,Hull City,16
+121,Dženis Burnić,28,Bosnia and Herzegovina,CM,Karlsruher SC,17
+122,Amar Memić,25,Bosnia and Herzegovina,RM,Viktoria Plzeň,15
+123,Ermin Mahmić,21,Bosnia and Herzegovina,LM,Slovan Liberec,26
+124,Kerim Alajbegović,18,Bosnia and Herzegovina,LW,Red Bull Salzburg,19
+125,Esmir Bajraktarević,21,Bosnia and Herzegovina,LW,PSV Eindhoven,20
+126,Samed Baždar,22,Bosnia and Herzegovina,ST,Jagiellonia Białystok,9
+127,Ermedin Demirović,28,Bosnia and Herzegovina,ST,VfB Stuttgart,10
+128,Edin Džeko,40,Bosnia and Herzegovina,ST,Schalke 04,11
+129,Haris Tabaković,31,Bosnia and Herzegovina,ST,Borussia Mönchengladbach,23
+130,Jovo Lukić,27,Bosnia and Herzegovina,ST,Universitatea Cluj,25
+131,Dayne St. Clair,29,Canada,GK,Inter Miami CF,1
+132,Maxime Crépeau,32,Canada,GK,Orlando City SC,16
+133,Owen Goodman,22,Canada,GK,Barnsley,18
+134,Alfie Jones,28,Canada,CB,Middlesbrough,3
+135,Luc de Fougerolles,20,Canada,CB,Dender EH,4
+136,Joel Waterman,30,Canada,CB,Chicago Fire FC,5
+137,Derek Cornelius,28,Canada,CB,Rangers,13
+138,Moïse Bombito,26,Canada,CB,Nice,15
+139,Alphonso Davies,25,Canada,LB,Bayern Munich,19
+140,Alistair Johnston,27,Canada,RB,Celtic,2
+141,Richie Laryea,31,Canada,RB,Toronto FC,22
+142,Stephen Eustáquio,29,Canada,CDM,Los Angeles FC,7
+143,Niko Sigur,22,Canada,CDM,Hajduk Split,23
+144,Mathieu Choinière,27,Canada,CM,Los Angeles FC,6
+145,Ismaël Koné,23,Canada,CM,Sassuolo,8
+146,Jonathan Osorio,33,Canada,CM,Toronto FC,21
+147,Nathan Saliba,22,Canada,CM,Anderlecht,25
+148,Ali Ahmed,25,Canada,RM,Norwich City,20
+149,Liam Millar,26,Canada,LM,Hull City,11
+150,Jacob Shaffelburg,26,Canada,LW,Los Angeles FC,14
+151,Jayden Nelson,23,Canada,LW,Austin FC,26
+152,Tajon Buchanan,27,Canada,RW,Villarreal,17
+153,Cyle Larin,31,Canada,ST,Southampton,9
+154,Jonathan David,26,Canada,ST,Juventus,10
+155,Tani Oluwaseyi,26,Canada,ST,Villarreal,12
+156,Promise David,24,Canada,ST,Union Saint-Gilloise,24
+157,Mahmud Abunada,26,Qatar,GK,Al-Rayyan,1
+158,Salah Zakaria,27,Qatar,GK,Al-Duhail,21
+159,Meshaal Barsham,28,Qatar,GK,Al-Sadd,22
+160,Lucas Mendes,35,Qatar,CB,Al-Wakrah,3
+161,Issa Laye,28,Qatar,CB,Al-Arabi,4
+162,Jassem Gaber,24,Qatar,CB,Al-Rayyan,5
+163,Ayoub Al-Oui,21,Qatar,CB,Al-Gharafa,13
+164,Boualem Khoukhi,35,Qatar,CB,Al-Sadd,16
+165,Al-Hashmi Al-Hussain,22,Qatar,CB,Al-Arabi,25
+166,Homam Ahmed,26,Qatar,LB,Cultural Leonesa,14
+167,Sultan Al-Brake,30,Qatar,LB,Al-Duhail,18
+168,Pedro Miguel,35,Qatar,RB,Al-Sadd,2
+169,Ahmed Fathy,33,Qatar,CDM,Al-Arabi,20
+170,Assim Madibo,29,Qatar,CDM,Al-Wakrah,23
+171,Abdulaziz Hatem,36,Qatar,CM,Al-Rayyan,6
+172,Karim Boudiaf,35,Qatar,CM,Al-Duhail,12
+173,Hassan Al-Haydos,35,Qatar,CAM,Al-Sadd,10
+174,Ahmed Al-Ganehi,25,Qatar,LM,Al-Gharafa,17
+175,Akram Afif,29,Qatar,LW,Al-Sadd,11
+176,Edmilson Junior,31,Qatar,RW,Al-Duhail,8
+177,Yusuf Abdurisag,26,Qatar,RW,Al-Wakrah,15
+178,Tahsin Jamshid,19,Qatar,RW,Al-Duhail,24
+179,Ahmed Alaaeldin,33,Qatar,ST,Al-Rayyan,7
+180,Mohammed Muntari,32,Qatar,ST,Al-Gharafa,9
+181,Almoez Ali,29,Qatar,ST,Al-Duhail,19
+182,Mohamed Manai,23,Qatar,ST,Al-Shamal,26
+183,Gregor Kobel,28,Switzerland,GK,Borussia Dortmund,1
+184,Yvon Mvogo,32,Switzerland,GK,Lorient,12
+185,Marvin Keller,23,Switzerland,GK,Young Boys,21
+186,Nico Elvedi,29,Switzerland,CB,Borussia Mönchengladbach,4
+187,Manuel Akanji,30,Switzerland,CB,Inter Milan,5
+188,Eray Cömert,28,Switzerland,CB,Valencia,18
+189,Aurèle Amenda,22,Switzerland,CB,Eintracht Frankfurt,24
+190,Luca Jaquez,23,Switzerland,CB,VfB Stuttgart,25
+191,Miro Muheim,28,Switzerland,LB,Hamburger SV,2
+192,Ricardo Rodriguez,33,Switzerland,LB,Real Betis,13
+193,Silvan Widmer,33,Switzerland,RB,Mainz 05,3
+194,Denis Zakaria,29,Switzerland,CDM,Monaco,6
+195,Ardon Jashari,23,Switzerland,CDM,AC Milan,14
+196,Remo Freuler,34,Switzerland,CM,Bologna,8
+197,Johan Manzambi,20,Switzerland,CM,SC Freiburg,9
+198,Granit Xhaka,33,Switzerland,CM,Sunderland,10
+199,Djibril Sow,29,Switzerland,CM,Sevilla,15
+200,Michel Aebischer,29,Switzerland,CM,Pisa,20
+201,Fabian Rieder,24,Switzerland,CAM,FC Augsburg,22
+202,Christian Fassnacht,32,Switzerland,RM,Young Boys,16
+203,Rubén Vargas,27,Switzerland,LW,Sevilla,17
+204,Noah Okafor,26,Switzerland,LW,Leeds United,19
+205,Dan Ndoye,25,Switzerland,RW,Nottingham Forest,11
+206,Breel Embolo,29,Switzerland,ST,Rennes,7
+207,Zeki Amdouni,25,Switzerland,ST,Burnley,23
+208,Cedric Itten,29,Switzerland,ST,Fortuna Düsseldorf,26
+209,Alisson,33,Brazil,GK,Liverpool,1
+210,Weverton,38,Brazil,GK,Grêmio,12
+211,Ederson Moraes,32,Brazil,GK,Fenerbahçe,23
+212,Gabriel Magalhães,28,Brazil,CB,Arsenal,3
+213,Marquinhos,32,Brazil,CB,Paris Saint-Germain,4
+214,Bremer,29,Brazil,CB,Juventus,14
+215,Léo Pereira,30,Brazil,CB,Flamengo,15
+216,Roger Ibañez,27,Brazil,CB,Al-Ahli,24
+217,Alex Sandro,35,Brazil,LB,Flamengo,6
+218,Douglas Santos,32,Brazil,LB,Zenit Saint Petersburg,16
+219,Danilo Luiz,34,Brazil,RB,Flamengo,13
+220,Casemiro,34,Brazil,CDM,Manchester United,5
+221,Fabinho,32,Brazil,CDM,Al-Ittihad,17
+222,Danilo Santos,25,Brazil,CDM,Botafogo,18
+223,Éderson Silva,26,Brazil,CM,Atalanta,2
+224,Bruno Guimarães,28,Brazil,CM,Newcastle United,8
+225,Lucas Paquetá,28,Brazil,CAM,Flamengo,20
+226,Vinícius Júnior,25,Brazil,LW,Real Madrid,7
+227,Gabriel Martinelli,24,Brazil,LW,Arsenal,22
+228,Raphinha,29,Brazil,RW,Barcelona,11
+229,Luiz Henrique,25,Brazil,RW,Zenit Saint Petersburg,21
+230,Rayan,19,Brazil,RW,Bournemouth,26
+231,Matheus Cunha,27,Brazil,ST,Manchester United,9
+232,Neymar,34,Brazil,ST,Santos,10
+233,Endrick,19,Brazil,ST,Lyon,19
+234,Igor Thiago,24,Brazil,ST,Brentford,25
+235,Johny Placide,38,Haiti,GK,Bastia,1
+236,Alexandre Pierre,25,Haiti,GK,Sochaux,12
+237,Josué Duverger,26,Haiti,GK,Cosmos Koblenz,23
+238,Ricardo Adé,36,Haiti,CB,LDU Quito,4
+239,Hannes Delcroix,27,Haiti,CB,Lugano,5
+240,Garven Metusala,26,Haiti,CB,Colorado Springs Switchbacks FC,14
+241,Jean-Kévin Duverne,28,Haiti,CB,Gent,22
+242,Wilguens Paugain,24,Haiti,CB,Zulte Waregem,24
+243,Martin Expérience,27,Haiti,LB,Nancy,8
+244,Duke Lacroix,32,Haiti,LB,Colorado Springs Switchbacks FC,13
+245,Carlens Arcus,29,Haiti,RB,Angers,2
+246,Keeto Thermoncy,20,Haiti,RB,Young Boys,3
+247,Carl Sainté,23,Haiti,CDM,El Paso Locomotive FC,6
+248,Danley Jean Jacques,26,Haiti,CDM,Philadelphia Union,17
+249,Dominique Simon,25,Haiti,CM,Tatran Prešov,25
+250,Woodensky Pierre,21,Haiti,CM,Violette,26
+251,Jean-Ricner Bellegarde,27,Haiti,CAM,Wolverhampton Wanderers,10
+252,Derrick Etienne Jr.,29,Haiti,LW,Toronto FC,7
+253,Ruben Providence,24,Haiti,LW,Almere City,15
+254,Yassin Fortuné,27,Haiti,LW,Vizela,19
+255,Louicius Deedson,25,Haiti,RW,FC Dallas,11
+256,Lenny Joseph,25,Haiti,RW,Ferencváros,16
+257,Josué Casimir,24,Haiti,RW,Auxerre,21
+258,Duckens Nazon,32,Haiti,ST,Esteghlal,9
+259,Wilson Isidor,25,Haiti,ST,Sunderland,18
+260,Frantzdy Pierrot,31,Haiti,ST,Çaykur Rizespor,20
+261,Yassine Bounou,35,Morocco,GK,Al-Hilal,1
+262,Munir Mohamedi,37,Morocco,GK,RS Berkane,12
+263,Ahmed Reda Tagnaouti,30,Morocco,GK,AS FAR,22
+264,Marwane Saâdane,34,Morocco,CB,Al-Fateh,5
+265,Issa Diop,29,Morocco,CB,Fulham,14
+266,Chadi Riad,22,Morocco,CB,Crystal Palace,18
+267,Redouane Halhal,23,Morocco,CB,Mechelen,25
+268,Noussair Mazraoui,28,Morocco,LB,Manchester United,3
+269,Youssef Belammari,27,Morocco,LB,Al Ahly,19
+270,Anass Salah-Eddine,24,Morocco,LB,PSV Eindhoven,26
+271,Achraf Hakimi,27,Morocco,RB,Paris Saint-Germain,2
+272,Zakaria El Ouahdi,24,Morocco,RB,Genk,13
+273,Sofyan Amrabat,29,Morocco,CDM,Real Betis,4
+274,Ayyoub Bouaddi,18,Morocco,CDM,Lille,6
+275,Azzedine Ounahi,26,Morocco,CM,Girona,8
+276,Samir El Mourabet,20,Morocco,CM,Strasbourg,15
+277,Gessime Yassine,20,Morocco,CM,Strasbourg,16
+278,Neil El Aynaoui,24,Morocco,CM,Roma,24
+279,Chemsdine Talbi,21,Morocco,CAM,Sunderland,7
+280,Ismael Saibari,25,Morocco,CAM,PSV Eindhoven,11
+281,Bilal El Khannouss,22,Morocco,CAM,VfB Stuttgart,23
+282,Brahim Díaz,26,Morocco,LW,Real Madrid,10
+283,Amine Sbaï,25,Morocco,LW,Angers,17
+284,Ayoube Amaimouni,21,Morocco,RW,Eintracht Frankfurt,21
+285,Soufiane Rahimi,30,Morocco,ST,Al Ain,9
+286,Ayoub El Kaabi,32,Morocco,ST,Olympiacos,20
+287,Angus Gunn,30,Scotland,GK,Nottingham Forest,1
+288,Liam Kelly,30,Scotland,GK,Rangers,12
+289,Craig Gordon,43,Scotland,GK,Heart of Midlothian,21
+290,Grant Hanley,34,Scotland,CB,Hibernian,5
+291,Kieran Tierney,29,Scotland,CB,Celtic,6
+292,Jack Hendry,31,Scotland,CB,Al-Ettifaq,13
+293,John Souttar,29,Scotland,CB,Rangers,15
+294,Dominic Hyam,30,Scotland,CB,Wrexham,16
+295,Scott McKenna,29,Scotland,CB,Dinamo Zagreb,26
+296,Andy Robertson,32,Scotland,LB,Liverpool,3
+297,Aaron Hickey,24,Scotland,RB,Brentford,2
+298,Nathan Patterson,24,Scotland,RB,Everton,22
+299,Anthony Ralston,27,Scotland,RB,Celtic,24
+300,Tyler Fletcher,19,Scotland,CDM,Manchester United,8
+301,Ryan Christie,31,Scotland,CM,Bournemouth,11
+302,Lewis Ferguson,26,Scotland,CM,Bologna,19
+303,Kenny McLean,34,Scotland,CM,Norwich City,23
+304,Scott McTominay,29,Scotland,CAM,Napoli,4
+305,John McGinn,31,Scotland,CAM,Aston Villa,7
+306,Ben Gannon-Doak,20,Scotland,LW,Bournemouth,17
+307,Findlay Curtis,20,Scotland,RW,Kilmarnock,25
+308,Lyndon Dykes,30,Scotland,ST,Charlton Athletic,9
+309,Ché Adams,29,Scotland,ST,Torino,10
+310,Ross Stewart,29,Scotland,ST,Southampton,14
+311,George Hirst,27,Scotland,ST,Ipswich Town,18
+312,Lawrence Shankland,30,Scotland,ST,Heart of Midlothian,20
+313,Gatito Fernández,38,Paraguay,GK,Cerro Porteño,1
+314,Orlando Gill,26,Paraguay,GK,San Lorenzo,12
+315,Gastón Olveira,33,Paraguay,GK,Olimpia,22
+316,Omar Alderete,29,Paraguay,CB,Sunderland,3
+317,Fabián Balbuena,34,Paraguay,CB,Grêmio,5
+318,José Canale,29,Paraguay,CB,Lanús,13
+319,Gustavo Gómez,33,Paraguay,CB,Palmeiras,15
+320,Alexandro Maidana,20,Paraguay,CB,Talleres,26
+321,Júnior Alonso,33,Paraguay,LB,Atlético Mineiro,6
+322,Gustavo Velázquez,35,Paraguay,RB,Cerro Porteño,2
+323,Juan José Cáceres,26,Paraguay,RB,Dynamo Moscow,4
+324,Andrés Cubas,30,Paraguay,CDM,Vancouver Whitecaps FC,14
+325,Braian Ojeda,25,Paraguay,CDM,Orlando City SC,20
+326,Diego Gómez,23,Paraguay,CM,Brighton & Hove Albion,8
+327,Maurício,24,Paraguay,CM,Palmeiras,11
+328,Damián Bobadilla,24,Paraguay,CM,São Paulo,16
+329,Matías Galarza,24,Paraguay,CM,Atlanta United FC,23
+330,Miguel Almirón,32,Paraguay,CAM,Atlanta United FC,10
+331,Kaku,31,Paraguay,CAM,Al Ain,17
+332,Gustavo Caballero,24,Paraguay,CAM,Portsmouth,24
+333,Ramón Sosa,26,Paraguay,LW,Palmeiras,7
+334,Julio Enciso,22,Paraguay,LW,Strasbourg,19
+335,Isidro Pitta,26,Paraguay,RW,Red Bull Bragantino,25
+336,Antonio Sanabria,30,Paraguay,ST,Cremonese,9
+337,Álex Arce,30,Paraguay,ST,Independiente Rivadavia,18
+338,Gabriel Ávalos,34,Paraguay,ST,Independiente,21
+339,Mert Günok,37,Turkey,GK,Fenerbahçe,1
+340,Altay Bayındır,28,Turkey,GK,Manchester United,12
+341,Uğurcan Çakır,30,Turkey,GK,Galatasaray,23
+342,Merih Demiral,28,Turkey,CB,Al-Ahli,3
+343,Çağlar Söyüncü,30,Turkey,CB,Fenerbahçe,4
+344,Abdülkerim Bardakcı,31,Turkey,CB,Galatasaray,14
+345,Ozan Kabak,26,Turkey,CB,TSG Hoffenheim,15
+346,Samet Akaydin,32,Turkey,CB,Çaykur Rizespor,25
+347,Eren Elmalı,25,Turkey,LB,Galatasaray,13
+348,Ferdi Kadıoğlu,26,Turkey,LB,Brighton & Hove Albion,20
+349,Zeki Çelik,29,Turkey,RB,Roma,2
+350,Mert Müldür,27,Turkey,RB,Fenerbahçe,18
+351,Salih Özcan,28,Turkey,CDM,Borussia Dortmund,5
+352,İsmail Yüksek,27,Turkey,CDM,Fenerbahçe,16
+353,Kaan Ayhan,31,Turkey,CDM,Galatasaray,22
+354,Orkun Kökçü,25,Turkey,CM,Beşiktaş,6
+355,Arda Güler,21,Turkey,CAM,Real Madrid,8
+356,Hakan Çalhanoğlu,32,Turkey,CAM,Inter Milan,10
+357,Kerem Aktürkoğlu,27,Turkey,LW,Fenerbahçe,7
+358,Kenan Yıldız,21,Turkey,LW,Juventus,11
+359,İrfan Can Kahveci,30,Turkey,RW,Kasımpaşa,17
+360,Yunus Akgün,25,Turkey,RW,Galatasaray,19
+361,Oğuz Aydın,25,Turkey,RW,Fenerbahçe,24
+362,Deniz Gül,21,Turkey,ST,Porto,9
+363,Barış Alper Yılmaz,26,Turkey,ST,Galatasaray,21
+364,Can Uzun,20,Turkey,ST,Eintracht Frankfurt,26
+365,Mathew Ryan,34,Australia,GK,Levante,1
+366,Paul Izzo,31,Australia,GK,Randers,12
+367,Patrick Beach,22,Australia,GK,Melbourne City,18
+368,Miloš Degenek,32,Australia,CB,APOEL,2
+369,Alessandro Circati,22,Australia,CB,Parma,3
+370,Kai Trewin,25,Australia,CB,New York City FC,15
+371,Harry Souttar,27,Australia,CB,Leicester City,19
+372,Cameron Burgess,30,Australia,CB,Swansea City,21
+373,Lucas Herrington,18,Australia,CB,Colorado Rapids,25
+374,Jordan Bos,23,Australia,LB,Feyenoord,5
+375,Aziz Behich,35,Australia,LB,Melbourne City,16
+376,Jacob Italiano,24,Australia,RB,Grazer AK,4
+377,Jason Geria,33,Australia,RB,Albirex Niigata,6
+378,Aiden O'Neill,27,Australia,CDM,New York City FC,13
+379,Cammy Devlin,28,Australia,CDM,Heart of Midlothian,14
+380,Connor Metcalfe,26,Australia,CM,FC St. Pauli,8
+381,Jackson Irvine,33,Australia,CM,FC St. Pauli,22
+382,Paul Okon-Engstler,21,Australia,CM,Sydney FC,24
+383,Ajdin Hrustic,29,Australia,CAM,Heracles Almelo,10
+384,Mathew Leckie,35,Australia,LW,Melbourne City,7
+385,Awer Mabil,30,Australia,LW,Castellón,11
+386,Nishan Velupillay,25,Australia,LW,Melbourne Victory,23
+387,Nestory Irankunda,20,Australia,RW,Watford,17
+388,Cristian Volpato,22,Australia,RW,Sassuolo,20
+389,Mohamed Touré,22,Australia,ST,Norwich City,9
+390,Tete Yengi,25,Australia,ST,Machida Zelvia,26
+391,Matt Turner,31,United States,GK,New England Revolution,1
+392,Matt Freese,27,United States,GK,New York City FC,24
+393,Chris Brady,22,United States,GK,Chicago Fire FC,25
+394,Chris Richards,26,United States,CB,Crystal Palace,3
+395,Auston Trusty,27,United States,CB,Celtic,6
+396,Miles Robinson,29,United States,CB,FC Cincinnati,12
+397,Tim Ream,38,United States,CB,Charlotte FC,13
+398,Mark McKenzie,27,United States,CB,Toulouse,22
+399,Antonee Robinson,28,United States,LB,Fulham,5
+400,Max Arfsten,25,United States,LB,Columbus Crew,18
+401,Sergiño Dest,25,United States,RB,PSV Eindhoven,2
+402,Alex Freeman,21,United States,RB,Villarreal,16
+403,Joe Scally,23,United States,RB,Borussia Mönchengladbach,23
+404,Tyler Adams,27,United States,CDM,Bournemouth,4
+405,Sebastian Berhalter,25,United States,CDM,Vancouver Whitecaps FC,14
+406,Weston McKennie,27,United States,CM,Juventus,8
+407,Cristian Roldan,31,United States,CM,Seattle Sounders FC,15
+408,Giovanni Reyna,23,United States,CAM,Borussia Mönchengladbach,7
+409,Malik Tillman,24,United States,CAM,Bayer Leverkusen,17
+410,Christian Pulisic,27,United States,LW,AC Milan,10
+411,Brenden Aaronson,25,United States,LW,Leeds United,11
+412,Haji Wright,28,United States,LW,Coventry City,19
+413,Timothy Weah,26,United States,RW,Marseille,21
+414,Alejandro Zendejas,28,United States,RW,América,26
+415,Ricardo Pepi,23,United States,ST,PSV Eindhoven,9
+416,Folarin Balogun,24,United States,ST,Monaco,20
+417,Eloy Room,37,Curaçao,GK,Miami FC,1
+418,Tyrick Bodak,24,Curaçao,GK,Telstar,25
+419,Trevor Doornbusch,26,Curaçao,GK,VVV-Venlo,26
+420,Juriën Gaari,32,Curaçao,CB,Abha,3
+421,Roshon van Eijma,28,Curaçao,CB,RKC Waalwijk,4
+422,Armando Obispo,27,Curaçao,CB,PSV Eindhoven,18
+423,Riechedly Bazoer,29,Curaçao,CB,Konyaspor,23
+424,Deveron Fonville,23,Curaçao,CB,NEC,24
+425,Sherel Floranus,27,Curaçao,LB,PEC Zwolle,5
+426,Shurandy Sambo,24,Curaçao,RB,Sparta Rotterdam,2
+427,Joshua Brenet,32,Curaçao,RB,Kayserispor,20
+428,Godfried Roemeratoe,26,Curaçao,CDM,RKC Waalwijk,6
+429,Kevin Felida,26,Curaçao,CDM,Den Bosch,22
+430,Juninho Bacuna,28,Curaçao,CM,Volendam,7
+431,Livano Comenencia,22,Curaçao,CM,Zürich,8
+432,Ar'jany Martha,22,Curaçao,CM,Rotherham United,15
+433,Leandro Bacuna,34,Curaçao,CAM,Iğdır,10
+434,Tahith Chong,26,Curaçao,CAM,Sheffield United,21
+435,Jeremy Antonisse,24,Curaçao,LW,Kifisia,11
+436,Kenji Gorré,31,Curaçao,LW,Maccabi Haifa,14
+437,Gervane Kastaneer,30,Curaçao,LW,Terengganu,19
+438,Sontje Hansen,24,Curaçao,RW,Middlesbrough,12
+439,Jearl Margaritha,26,Curaçao,RW,Beveren,16
+440,Brandley Kuwas,33,Curaçao,RW,Volendam,17
+441,Jürgen Locadia,32,Curaçao,ST,Miami FC,9
+442,Tyrese Noslin,23,Curaçao,ST,Telstar,13
+443,Hernán Galíndez,39,Ecuador,GK,Huracán,1
+444,Moisés Ramírez,25,Ecuador,GK,Kifisia,12
+445,Gonzalo Valle,30,Ecuador,GK,LDU Quito,22
+446,Félix Torres,29,Ecuador,CB,Internacional,2
+447,Piero Hincapié,24,Ecuador,CB,Arsenal,3
+448,Joel Ordóñez,22,Ecuador,CB,Club Brugge,4
+449,Willian Pacho,24,Ecuador,CB,Paris Saint-Germain,6
+450,Jackson Porozo,25,Ecuador,CB,Tijuana,25
+451,Pervis Estupiñán,28,Ecuador,LB,AC Milan,7
+452,Yaimar Medina,21,Ecuador,LB,Genk,26
+453,Ángelo Preciado,28,Ecuador,RB,Atlético Mineiro,17
+454,Moisés Caicedo,24,Ecuador,CDM,Chelsea,23
+455,Jordy Alcívar,26,Ecuador,CM,Independiente del Valle,5
+456,Anthony Valencia,22,Ecuador,CM,Antwerp,8
+457,Denil Castillo,22,Ecuador,CM,Midtjylland,18
+458,Alan Franco,27,Ecuador,CM,Atlético Mineiro,21
+459,Kendry Páez,19,Ecuador,CAM,River Plate,10
+460,Pedro Vite,24,Ecuador,CAM,Pumas UNAM,15
+461,Alan Minda,23,Ecuador,LW,Atlético Mineiro,14
+462,Gonzalo Plata,25,Ecuador,LW,Flamengo,19
+463,Nilson Angulo,22,Ecuador,LW,Sunderland,20
+464,John Yeboah,25,Ecuador,RW,Venezia,9
+465,Jeremy Arévalo,21,Ecuador,RW,VfB Stuttgart,24
+466,Kevin Rodríguez,26,Ecuador,ST,Union Saint-Gilloise,11
+467,Enner Valencia,36,Ecuador,ST,Pachuca,13
+468,Jordy Caicedo,28,Ecuador,ST,Huracán,16
+469,Manuel Neuer,40,Germany,GK,Bayern Munich,1
+470,Oliver Baumann,36,Germany,GK,TSG Hoffenheim,12
+471,Alexander Nübel,29,Germany,GK,VfB Stuttgart,21
+472,Antonio Rüdiger,33,Germany,CB,Real Madrid,2
+473,Waldemar Anton,29,Germany,CB,Borussia Dortmund,3
+474,Jonathan Tah,30,Germany,CB,Bayern Munich,4
+475,Nico Schlotterbeck,26,Germany,CB,Borussia Dortmund,15
+476,Malick Thiaw,24,Germany,CB,Newcastle United,24
+477,Nathaniel Brown,22,Germany,LB,Eintracht Frankfurt,18
+478,David Raum,28,Germany,LB,RB Leipzig,22
+479,Joshua Kimmich,31,Germany,RB,Bayern Munich,6
+480,Aleksandar Pavlović,22,Germany,CDM,Bayern Munich,5
+481,Angelo Stiller,25,Germany,CDM,VfB Stuttgart,16
+482,Leon Goretzka,31,Germany,CM,Bayern Munich,8
+483,Pascal Groß,34,Germany,CM,Brighton & Hove Albion,13
+484,Nadiem Amiri,29,Germany,CM,Mainz 05,20
+485,Felix Nmecha,25,Germany,CM,Borussia Dortmund,23
+486,Assan Ouédraogo,20,Germany,CM,RB Leipzig,25
+487,Jamal Musiala,23,Germany,CAM,Bayern Munich,10
+488,Florian Wirtz,23,Germany,CAM,Liverpool,17
+489,Jamie Leweling,25,Germany,LW,VfB Stuttgart,9
+490,Leroy Sané,30,Germany,LW,Galatasaray,19
+491,Maximilian Beier,23,Germany,RW,Borussia Dortmund,14
+492,Kai Havertz,27,Germany,ST,Arsenal,7
+493,Nick Woltemade,24,Germany,ST,Newcastle United,11
+494,Deniz Undav,29,Germany,ST,VfB Stuttgart,26
+495,Yahia Fofana,25,Ivory Coast,GK,Çaykur Rizespor,1
+496,Mohamed Koné,24,Ivory Coast,GK,Charleroi,16
+497,Alban Lafont,27,Ivory Coast,GK,Panathinaikos,23
+498,Ousmane Diomande,22,Ivory Coast,CB,Sporting CP,2
+499,Odilon Kossounou,25,Ivory Coast,CB,Atalanta,7
+500,Emmanuel Agbadou,28,Ivory Coast,CB,Beşiktaş,20
+501,Evan Ndicka,26,Ivory Coast,CB,Roma,21
+502,Ghislain Konan,30,Ivory Coast,LB,Gil Vicente,3
+503,Christopher Opéri,29,Ivory Coast,LB,İstanbul Başakşehir,13
+504,Wilfried Singo,25,Ivory Coast,RB,Galatasaray,5
+505,Guéla Doué,23,Ivory Coast,RB,Strasbourg,17
+506,Jean Michaël Seri,34,Ivory Coast,CDM,Maribor,4
+507,Ibrahim Sangaré,28,Ivory Coast,CDM,Nottingham Forest,18
+508,Christ Inao Oulaï,20,Ivory Coast,CDM,Trabzonspor,26
+509,Seko Fofana,31,Ivory Coast,CM,Porto,6
+510,Franck Kessié,29,Ivory Coast,CM,Al-Ahli,8
+511,Parfait Guiagon,25,Ivory Coast,CM,Charleroi,25
+512,Simon Adingra,24,Ivory Coast,LW,Monaco,10
+513,Amad Diallo,23,Ivory Coast,LW,Manchester United,15
+514,Bazoumana Touré,20,Ivory Coast,LW,TSG Hoffenheim,24
+515,Nicolas Pépé,31,Ivory Coast,RW,Villarreal,19
+516,Ange-Yoan Bonny,22,Ivory Coast,ST,Inter Milan,9
+517,Yan Diomande,19,Ivory Coast,ST,RB Leipzig,11
+518,Elye Wahi,23,Ivory Coast,ST,Nice,12
+519,Oumar Diakité,22,Ivory Coast,ST,Cercle Brugge,14
+520,Evann Guessand,24,Ivory Coast,ST,Crystal Palace,22
+521,Zion Suzuki,23,Japan,GK,Parma,1
+522,Keisuke Ōsako,26,Japan,GK,Sanfrecce Hiroshima,12
+523,Tomoki Hayakawa,27,Japan,GK,Kashima Antlers,23
+524,Shōgo Taniguchi,34,Japan,CB,Sint-Truiden,3
+525,Kō Itakura,29,Japan,CB,Ajax,4
+526,Tsuyoshi Watanabe,29,Japan,CB,Feyenoord,16
+527,Ayumu Seko,26,Japan,CB,Le Havre,20
+528,Hiroki Itō,27,Japan,CB,Bayern Munich,21
+529,Takehiro Tomiyasu,27,Japan,CB,Ajax,22
+530,Yūto Nagatomo,39,Japan,LB,FC Tokyo,5
+531,Junnosuke Suzuki,22,Japan,LB,Copenhagen,25
+532,Yukinari Sugawara,25,Japan,RB,Werder Bremen,2
+533,Kaishū Sano,25,Japan,CDM,Mainz 05,24
+534,Ao Tanaka,27,Japan,CM,Leeds United,7
+535,Takefusa Kubo,25,Japan,CAM,Real Sociedad,8
+536,Ritsu Dōan,27,Japan,CAM,Eintracht Frankfurt,10
+537,Daichi Kamada,29,Japan,CAM,Crystal Palace,15
+538,Yuito Suzuki,24,Japan,CAM,SC Freiburg,17
+539,Daizen Maeda,28,Japan,LW,Celtic,11
+540,Keito Nakamura,25,Japan,LW,Reims,13
+541,Junya Itō,33,Japan,RW,Genk,14
+542,Shūto Machino,26,Japan,ST,Borussia Mönchengladbach,6
+543,Keisuke Gotō,21,Japan,ST,Sint-Truiden,9
+544,Ayase Ueda,27,Japan,ST,Feyenoord,18
+545,Kōki Ogawa,28,Japan,ST,NEC,19
+546,Kento Shiogai,21,Japan,ST,VfL Wolfsburg,26
+547,Bart Verbruggen,23,Netherlands,GK,Brighton & Hove Albion,1
+548,Robin Roefs,23,Netherlands,GK,Sunderland,13
+549,Mark Flekken,32,Netherlands,GK,Bayer Leverkusen,23
+550,Virgil van Dijk,34,Netherlands,CB,Liverpool,4
+551,Nathan Aké,31,Netherlands,CB,Manchester City,5
+552,Jan Paul van Hecke,26,Netherlands,CB,Brighton & Hove Albion,6
+553,Mats Wieffer,26,Netherlands,CB,Brighton & Hove Albion,12
+554,Micky van de Ven,25,Netherlands,CB,Tottenham Hotspur,15
+555,Jorrel Hato,20,Netherlands,CB,Chelsea,25
+556,Lutsharel Geertruida,25,Netherlands,RB,Sunderland,2
+557,Denzel Dumfries,30,Netherlands,RB,Inter Milan,22
+558,Marten de Roon,35,Netherlands,CDM,Atalanta,3
+559,Frenkie de Jong,29,Netherlands,CDM,Barcelona,21
+560,Ryan Gravenberch,24,Netherlands,CM,Liverpool,8
+561,Tijjani Reijnders,27,Netherlands,CM,Manchester City,14
+562,Quinten Timber,24,Netherlands,CM,Marseille,26
+563,Guus Til,28,Netherlands,CAM,PSV Eindhoven,16
+564,Teun Koopmeiners,28,Netherlands,CAM,Juventus,20
+565,Justin Kluivert,27,Netherlands,LW,Bournemouth,7
+566,Cody Gakpo,27,Netherlands,LW,Liverpool,11
+567,Noa Lang,26,Netherlands,LW,Galatasaray,17
+568,Crysencio Summerville,24,Netherlands,LW,West Ham United,24
+569,Donyell Malen,27,Netherlands,RW,Roma,18
+570,Wout Weghorst,33,Netherlands,ST,Ajax,9
+571,Memphis Depay,32,Netherlands,ST,Corinthians,10
+572,Brian Brobbey,24,Netherlands,ST,Sunderland,19
+573,Mouhib Chamakh,24,Tunisia,GK,Club Africain,1
+574,Aymen Dahmen,29,Tunisia,GK,CS Sfaxien,16
+575,Sabri Ben Hessen,29,Tunisia,GK,Étoile du Sahel,22
+576,Montassar Talbi,28,Tunisia,CB,Lorient,3
+577,Omar Rekik,24,Tunisia,CB,Maribor,4
+578,Dylan Bronn,30,Tunisia,CB,Servette,6
+579,Raed Chikhaoui,22,Tunisia,CB,US Monastir,24
+580,Ali Abdi,32,Tunisia,LB,Nice,2
+581,Mohamed Amine Ben Hamida,30,Tunisia,LB,Espérance de Tunis,21
+582,Adem Arous,21,Tunisia,RB,Kasımpaşa,5
+583,Mortadha Ben Ouanes,31,Tunisia,RB,Kasımpaşa,12
+584,Yan Valery,27,Tunisia,RB,Young Boys,20
+585,Moutaz Neffati,21,Tunisia,RB,IFK Norrköping,23
+586,Rani Khedira,32,Tunisia,CDM,Union Berlin,13
+587,Ellyes Skhiri,31,Tunisia,CDM,Eintracht Frankfurt,17
+588,Khalil Ayari,21,Tunisia,CM,Paris Saint-Germain,14
+589,Mohamed Belhadj Mahmoud,26,Tunisia,CM,Lugano,15
+590,Anis Ben Slimane,25,Tunisia,CM,Norwich City,25
+591,Hannibal Mejbri,23,Tunisia,CAM,Burnley,10
+592,Ismaël Gharbi,22,Tunisia,CAM,FC Augsburg,11
+593,Sebastian Tounekti,23,Tunisia,CAM,Celtic,26
+594,Elias Achouri,27,Tunisia,LW,Copenhagen,7
+595,Elias Saad,26,Tunisia,LW,Hannover 96,8
+596,Rayan Elloumi,18,Tunisia,RW,Vancouver Whitecaps FC,18
+597,Hazem Mastouri,28,Tunisia,ST,Dynamo Makhachkala,9
+598,Firas Chaouat,30,Tunisia,ST,Club Africain,19
+599,Jacob Widell Zetterström,27,Sweden,GK,Derby County,1
+600,Viktor Johansson,27,Sweden,GK,Stoke City,12
+601,Kristoffer Nordfeldt,36,Sweden,GK,AIK,23
+602,Gustaf Lagerbielke,26,Sweden,CB,Braga,2
+603,Victor Lindelöf,31,Sweden,CB,Aston Villa,3
+604,Isak Hien,27,Sweden,CB,Atalanta,4
+605,Hjalmar Ekdal,27,Sweden,CB,Burnley,14
+606,Carl Starfelt,31,Sweden,CB,Celta Vigo,15
+607,Eric Smith,29,Sweden,CB,FC St. Pauli,20
+608,Gabriel Gudmundsson,27,Sweden,LB,Leeds United,5
+609,Daniel Svensson,24,Sweden,LB,Borussia Dortmund,8
+610,Elliot Stroud,23,Sweden,LB,Mjällby AIF,24
+611,Herman Johansson,28,Sweden,RB,FC Dallas,6
+612,Alexander Bernhardsson,27,Sweden,RB,Holstein Kiel,21
+613,Jesper Karlström,30,Sweden,CDM,Udinese,16
+614,Lucas Bergvall,20,Sweden,CM,Tottenham Hotspur,7
+615,Yasin Ayari,22,Sweden,CM,Brighton & Hove Albion,18
+616,Mattias Svanberg,27,Sweden,CM,VfL Wolfsburg,19
+617,Besfort Zeneli,23,Sweden,CM,Union Saint-Gilloise,22
+618,Benjamin Nygren,24,Sweden,CAM,Celtic,10
+619,Ken Sema,32,Sweden,CAM,Pafos,13
+620,Anthony Elanga,24,Sweden,LW,Newcastle United,11
+621,Taha Ali,27,Sweden,LW,Malmö FF,26
+622,Alexander Isak,26,Sweden,ST,Liverpool,9
+623,Viktor Gyökeres,28,Sweden,ST,Arsenal,17
+624,Gustaf Nilsson,29,Sweden,ST,Club Brugge,25
+625,Thibaut Courtois,34,Belgium,GK,Real Madrid,1
+626,Senne Lammens,23,Belgium,GK,Manchester United,12
+627,Mike Penders,20,Belgium,GK,Strasbourg,13
+628,Zeno Debast,22,Belgium,CB,Sporting CP,2
+629,Arthur Theate,26,Belgium,CB,Eintracht Frankfurt,3
+630,Brandon Mechele,33,Belgium,CB,Club Brugge,4
+631,Koni De Winter,23,Belgium,CB,AC Milan,16
+632,Nathan Ngoy,23,Belgium,CB,Lille,25
+633,Maxim De Cuyper,25,Belgium,LB,Brighton & Hove Albion,5
+634,Joaquin Seys,21,Belgium,LB,Club Brugge,18
+635,Thomas Meunier,34,Belgium,RB,Lille,15
+636,Timothy Castagne,30,Belgium,RB,Fulham,21
+637,Axel Witsel,37,Belgium,CDM,Girona,6
+638,Amadou Onana,24,Belgium,CDM,Aston Villa,24
+639,Youri Tielemans,29,Belgium,CM,Aston Villa,8
+640,Hans Vanaken,33,Belgium,CM,Club Brugge,20
+641,Nicolas Raskin,25,Belgium,CM,Rangers,23
+642,Kevin De Bruyne,34,Belgium,CAM,Napoli,7
+643,Diego Moreira,21,Belgium,CAM,Strasbourg,19
+644,Leandro Trossard,31,Belgium,LW,Arsenal,10
+645,Jérémy Doku,24,Belgium,LW,Manchester City,11
+646,Alexis Saelemaekers,26,Belgium,LW,AC Milan,22
+647,Dodi Lukébakio,28,Belgium,RW,Benfica,14
+648,Matias Fernandez-Pardo,21,Belgium,RW,Lille,26
+649,Romelu Lukaku,33,Belgium,ST,Napoli,9
+650,Charles De Ketelaere,25,Belgium,ST,Atalanta,17
+651,Mohamed El Shenawy,37,Egypt,GK,Al Ahly,1
+652,El Mahdy Soliman,39,Egypt,GK,Zamalek,16
+653,Mostafa Shobeir,26,Egypt,GK,Al Ahly,23
+654,Mohamed Alaa,27,Egypt,GK,El Gouna,26
+655,Yasser Ibrahim,33,Egypt,CB,Al Ahly,2
+656,Hossam Abdelmaguid,25,Egypt,CB,Zamalek,4
+657,Ramy Rabia,33,Egypt,CB,Al Ain,5
+658,Mohamed Abdelmonem,27,Egypt,CB,Nice,6
+659,Ahmed Fatouh,28,Egypt,LB,Zamalek,13
+660,Karim Hafez,30,Egypt,LB,Pyramids,15
+661,Mohamed Hany,30,Egypt,RB,Al Ahly,3
+662,Tarek Alaa,24,Egypt,RB,ZED,24
+663,Hamdy Fathy,31,Egypt,CDM,Al-Wakrah,14
+664,Nabil Emad,30,Egypt,CDM,Al-Najma,18
+665,Marwan Attia,27,Egypt,CDM,Al Ahly,19
+666,Emam Ashour,28,Egypt,CM,Al Ahly,8
+667,Mohanad Lasheen,30,Egypt,CM,Pyramids,17
+668,Mostafa Ziko,29,Egypt,CAM,Pyramids,11
+669,Mahmoud Saber,24,Egypt,CAM,ZED,21
+670,Trézéguet,31,Egypt,LW,Al Ahly,7
+671,Haissem Hassan,24,Egypt,LW,Oviedo,12
+672,Ibrahim Adel,25,Egypt,LW,Nordsjælland,20
+673,Mohamed Salah,33,Egypt,RW,Liverpool,10
+674,Zizo,30,Egypt,RW,Al Ahly,25
+675,Hamza Abdelkarim,18,Egypt,ST,Barcelona B,9
+676,Omar Marmoush,27,Egypt,ST,Manchester City,22
+677,Alireza Beiranvand,33,Iran,GK,Tractor,1
+678,Payam Niazmand,31,Iran,GK,Persepolis,12
+679,Hossein Hosseini,33,Iran,GK,Sepahan,22
+680,Shojae Khalilzadeh,37,Iran,CB,Tractor,4
+681,Hossein Kanaanizadegan,32,Iran,CB,Persepolis,13
+682,Ali Nemati,30,Iran,CB,Foolad,19
+683,Danial Eiri,22,Iran,CB,Malavan,25
+684,Ehsan Hajsafi,36,Iran,LB,Sepahan,3
+685,Milad Mohammadi,32,Iran,LB,Persepolis,5
+686,Saleh Hardani,27,Iran,RB,Esteghlal,2
+687,Arya Yousefi,24,Iran,RB,Sepahan,17
+688,Ramin Rezaeian,36,Iran,RB,Foolad,23
+689,Saeid Ezatolahi,29,Iran,CDM,Shabab Al Ahli,6
+690,Rouzbeh Cheshmi,32,Iran,CDM,Esteghlal,15
+691,Mohammad Ghorbani,24,Iran,CM,Al Wahda,21
+692,Amirmohammad Razzaghinia,20,Iran,CM,Esteghlal,26
+693,Saman Ghoddos,32,Iran,CAM,Kalba,14
+694,Mohammad Mohebi,27,Iran,LW,Rostov,8
+695,Mehdi Ghayedi,27,Iran,LW,Al Nasr,10
+696,Mahdi Torabi,31,Iran,LW,Tractor,16
+697,Alireza Jahanbakhsh,32,Iran,RW,Dender EH,7
+698,Amirhossein Hosseinzadeh,25,Iran,RW,Tractor,18
+699,Mehdi Taremi,33,Iran,ST,Olympiacos,9
+700,Ali Alipour,30,Iran,ST,Persepolis,11
+701,Shahriyar Moghanlou,31,Iran,ST,Kalba,20
+702,Dennis Eckert,29,Iran,ST,Standard Liège,24
+703,Max Crocombe,32,New Zealand,GK,Millwall,1
+704,Alex Paulsen,23,New Zealand,GK,Lechia Gdańsk,12
+705,Michael Woud,27,New Zealand,GK,Auckland FC,22
+706,Tyler Bindon,21,New Zealand,CB,Sheffield United,4
+707,Michael Boxall,37,New Zealand,CB,Minnesota United FC,5
+708,Nando Pijnaker,27,New Zealand,CB,Auckland FC,15
+709,Finn Surman,22,New Zealand,CB,Portland Timbers,16
+710,Tommy Smith,36,New Zealand,CB,Braintree Town,26
+711,Francis de Vries,31,New Zealand,LB,Auckland FC,3
+712,Liberato Cacace,25,New Zealand,LB,Wrexham,13
+713,Tim Payne,32,New Zealand,RB,Wellington Phoenix,2
+714,Callan Elliot,26,New Zealand,RB,Auckland FC,24
+715,Joe Bell,27,New Zealand,CDM,Viking,6
+716,Alex Rufer,29,New Zealand,CDM,Wellington Phoenix,14
+717,Marko Stamenić,24,New Zealand,CM,Swansea City,8
+718,Ryan Thomas,31,New Zealand,CM,PEC Zwolle,23
+719,Lachlan Bayliss,23,New Zealand,CM,Newcastle Jets,25
+720,Sarpreet Singh,27,New Zealand,CAM,Wellington Phoenix,10
+721,Ben Old,23,New Zealand,CAM,Saint-Étienne,19
+722,Callum McCowatt,27,New Zealand,CAM,Silkeborg,20
+723,Elijah Just,26,New Zealand,LW,Motherwell,11
+724,Jesse Randall,23,New Zealand,LW,Auckland FC,21
+725,Logan Rogerson,28,New Zealand,RW,Auckland FC,7
+726,Kosta Barbarouses,36,New Zealand,RW,Western Sydney Wanderers,17
+727,Chris Wood,34,New Zealand,ST,Nottingham Forest,9
+728,Ben Waine,25,New Zealand,ST,Port Vale,18
+729,Vozinha,40,Cape Verde,GK,Chaves,1
+730,Márcio Rosa,29,Cape Verde,GK,Montana,12
+731,CJ dos Santos,25,Cape Verde,GK,San Diego FC,23
+732,Diney,31,Cape Verde,CB,Al Bataeh,3
+733,Pico,33,Cape Verde,CB,Shamrock Rovers,4
+734,Logan Costa,25,Cape Verde,CB,Villarreal,5
+735,Kelvin Pires,26,Cape Verde,CB,SJK,25
+736,Stopira,38,Cape Verde,LB,Torreense,2
+737,Sidny Lopes Cabral,23,Cape Verde,LB,Benfica,13
+738,Steven Moreira,31,Cape Verde,RB,Columbus Crew,22
+739,Wagner Pina,23,Cape Verde,RB,Trabzonspor,24
+740,Kevin Pina,29,Cape Verde,CDM,Krasnodar,6
+741,Yannick Semedo,30,Cape Verde,CDM,Farense,16
+742,João Paulo,28,Cape Verde,CM,FCSB,8
+743,Deroy Duarte,26,Cape Verde,CM,Ludogorets Razgrad,14
+744,Laros Duarte,29,Cape Verde,CM,Puskás Akadémia,15
+745,Telmo Arcanjo,24,Cape Verde,CM,Vitória de Guimarães,18
+746,Jamiro Monteiro,32,Cape Verde,CAM,PEC Zwolle,10
+747,Nuno da Costa,35,Cape Verde,CAM,İstanbul Başakşehir,21
+748,Jovane Cabral,27,Cape Verde,LW,Estrela Amadora,7
+749,Willy Semedo,32,Cape Verde,LW,Omonia,17
+750,Hélio Varela,24,Cape Verde,LW,Maccabi Tel Aviv,26
+751,Garry Rodrigues,35,Cape Verde,RW,Apollon Limassol,11
+752,Ryan Mendes,36,Cape Verde,RW,Iğdır,20
+753,Gilson Benchimol,24,Cape Verde,ST,Akron Tolyatti,9
+754,Dailon Livramento,25,Cape Verde,ST,Casa Pia,19
+755,Nawaf Al-Aqidi,26,Saudi Arabia,GK,Al-Nassr,1
+756,Mohammed Al-Owais,34,Saudi Arabia,GK,Al-Ula,21
+757,Ahmed Al-Kassar,35,Saudi Arabia,GK,Al-Qadsiah,22
+758,Ali Lajami,30,Saudi Arabia,CB,Al-Hilal,3
+759,Abdulelah Al-Amri,29,Saudi Arabia,CB,Al-Nassr,4
+760,Hassan Al-Tambakti,27,Saudi Arabia,CB,Al-Hilal,5
+761,Hassan Kadesh,33,Saudi Arabia,CB,Al-Ittihad,14
+762,Jehad Thakri,24,Saudi Arabia,CB,Al-Qadsiah,25
+763,Nasser Al-Dawsari,27,Saudi Arabia,LB,Al-Hilal,6
+764,Moteb Al-Harbi,26,Saudi Arabia,LB,Al-Hilal,24
+765,Ali Majrashi,26,Saudi Arabia,RB,Al-Ahli,2
+766,Saud Abdulhamid,26,Saudi Arabia,RB,Lens,12
+767,Nawaf Boushal,26,Saudi Arabia,RB,Al-Nassr,13
+768,Mohammed Abu Al-Shamat,23,Saudi Arabia,RB,Al-Qadsiah,26
+769,Abdullah Al-Khaibari,29,Saudi Arabia,CDM,Al-Nassr,15
+770,Alaa Al-Hejji,30,Saudi Arabia,CDM,Neom,18
+771,Ziyad Al-Johani,24,Saudi Arabia,CM,Al-Ahli,16
+772,Mohamed Kanno,31,Saudi Arabia,CM,Al-Hilal,23
+773,Musab Al-Juwayr,22,Saudi Arabia,CAM,Al-Qadsiah,7
+774,Salem Al-Dawsari,34,Saudi Arabia,LW,Al-Hilal,10
+775,Khalid Al-Ghannam,25,Saudi Arabia,LW,Al-Ettifaq,17
+776,Ayman Yahya,25,Saudi Arabia,RW,Al-Nassr,8
+777,Sultan Mandash,31,Saudi Arabia,RW,Al-Hilal,20
+778,Firas Al-Buraikan,26,Saudi Arabia,ST,Al-Ahli,9
+779,Saleh Al-Shehri,32,Saudi Arabia,ST,Al-Ittihad,11
+780,Abdullah Al-Hamdan,26,Saudi Arabia,ST,Al-Nassr,19
+781,David Raya,30,Spain,GK,Arsenal,1
+782,Joan Garcia,25,Spain,GK,Barcelona,13
+783,Unai Simón,29,Spain,GK,Athletic Bilbao,23
+784,Eric García,25,Spain,CB,Barcelona,4
+785,Aymeric Laporte,32,Spain,CB,Athletic Bilbao,14
+786,Pau Cubarsí,19,Spain,CB,Barcelona,22
+787,Álex Grimaldo,30,Spain,LB,Bayer Leverkusen,3
+788,Marc Cucurella,27,Spain,LB,Chelsea,24
+789,Marc Pubill,22,Spain,RB,Atlético Madrid,2
+790,Marcos Llorente,31,Spain,RB,Atlético Madrid,5
+791,Pedro Porro,26,Spain,RB,Tottenham Hotspur,12
+792,Rodri,29,Spain,CDM,Manchester City,16
+793,Martín Zubimendi,27,Spain,CDM,Arsenal,18
+794,Mikel Merino,29,Spain,CM,Arsenal,6
+795,Fabián Ruiz,30,Spain,CM,Paris Saint-Germain,8
+796,Gavi,21,Spain,CM,Barcelona,9
+797,Álex Baena,24,Spain,CAM,Atlético Madrid,15
+798,Pedri,23,Spain,CAM,Barcelona,20
+799,Ferran Torres,26,Spain,LW,Barcelona,7
+800,Nico Williams,23,Spain,LW,Athletic Bilbao,17
+801,Yéremy Pino,23,Spain,RW,Crystal Palace,11
+802,Lamine Yamal,18,Spain,RW,Barcelona,19
+803,Víctor Muñoz,22,Spain,RW,Osasuna,25
+804,Dani Olmo,28,Spain,ST,Barcelona,10
+805,Mikel Oyarzabal,29,Spain,ST,Real Sociedad,21
+806,Borja Iglesias,33,Spain,ST,Celta Vigo,26
+807,Sergio Rochet,33,Uruguay,GK,Internacional,1
+808,Santiago Mele,28,Uruguay,GK,Monterrey,12
+809,Fernando Muslera,39,Uruguay,GK,Estudiantes,23
+810,José María Giménez,31,Uruguay,CB,Atlético Madrid,2
+811,Sebastián Cáceres,26,Uruguay,CB,América,3
+812,Ronald Araújo,27,Uruguay,CB,Barcelona,4
+813,Santiago Bueno,27,Uruguay,CB,Wolverhampton Wanderers,24
+814,Mathías Olivera,28,Uruguay,LB,Napoli,16
+815,Matías Viña,28,Uruguay,LB,River Plate,17
+816,Guillermo Varela,33,Uruguay,RB,Flamengo,13
+817,Manuel Ugarte,25,Uruguay,CDM,Manchester United,5
+818,Emiliano Martínez,26,Uruguay,CDM,Palmeiras,15
+819,Rodrigo Bentancur,28,Uruguay,CM,Tottenham Hotspur,6
+820,Federico Valverde,27,Uruguay,CM,Real Madrid,8
+821,Agustín Canobbio,27,Uruguay,CM,Fluminense,14
+822,Joaquín Piquerez,27,Uruguay,CM,Palmeiras,22
+823,Juan Manuel Sanabria,26,Uruguay,CM,Real Salt Lake,25
+824,Rodrigo Zalazar,26,Uruguay,CM,Braga,26
+825,Nicolás de la Cruz,29,Uruguay,CAM,Flamengo,7
+826,Giorgian de Arrascaeta,32,Uruguay,CAM,Flamengo,10
+827,Brian Rodríguez,26,Uruguay,LW,América,18
+828,Maximiliano Araújo,26,Uruguay,LW,Sporting CP,20
+829,Facundo Pellistri,24,Uruguay,RW,Panathinaikos,11
+830,Darwin Núñez,26,Uruguay,ST,Al-Hilal,9
+831,Rodrigo Aguirre,31,Uruguay,ST,Tigres UANL,19
+832,Federico Viñas,27,Uruguay,ST,Oviedo,21
+833,Brice Samba,32,France,GK,Rennes,1
+834,Mike Maignan,30,France,GK,AC Milan,16
+835,Robin Risser,21,France,GK,Lens,23
+836,Dayot Upamecano,27,France,CB,Bayern Munich,4
+837,Ibrahima Konaté,27,France,CB,Liverpool,15
+838,William Saliba,25,France,CB,Arsenal,17
+839,Lucas Hernandez,30,France,CB,Paris Saint-Germain,21
+840,Maxence Lacroix,26,France,CB,Crystal Palace,26
+841,Lucas Digne,32,France,LB,Aston Villa,3
+842,Théo Hernandez,28,France,LB,Al-Hilal,19
+843,Malo Gusto,23,France,RB,Chelsea,2
+844,Jules Koundé,27,France,RB,Barcelona,5
+845,Aurélien Tchouaméni,26,France,CDM,Real Madrid,8
+846,N'Golo Kanté,35,France,CDM,Fenerbahçe,13
+847,Manu Koné,25,France,CM,Roma,6
+848,Adrien Rabiot,31,France,CM,AC Milan,14
+849,Warren Zaïre-Emery,20,France,CM,Paris Saint-Germain,18
+850,Rayan Cherki,22,France,CAM,Manchester City,24
+851,Maghnes Akliouche,24,France,CAM,Monaco,25
+852,Bradley Barcola,23,France,LW,Paris Saint-Germain,12
+853,Désiré Doué,21,France,LW,Paris Saint-Germain,20
+854,Ousmane Dembélé,29,France,RW,Paris Saint-Germain,7
+855,Michael Olise,24,France,RW,Bayern Munich,11
+856,Marcus Thuram,28,France,ST,Inter Milan,9
+857,Kylian Mbappé,27,France,ST,Real Madrid,10
+858,Jean-Philippe Mateta,28,France,ST,Crystal Palace,22
+859,Fahad Talib,31,Iraq,GK,Al-Talaba,1
+860,Jalal Hassan,35,Iraq,GK,Al-Zawraa,12
+861,Ahmed Basil,29,Iraq,GK,Al-Shorta,22
+862,Rebin Sulaka,34,Iraq,CB,Port,2
+863,Zaid Tahseen,25,Iraq,CB,Pakhtakor,4
+864,Akam Hashim,27,Iraq,CB,Al-Zawraa,5
+865,Manaf Younis,29,Iraq,CB,Al-Shorta,6
+866,Frans Putros,32,Iraq,CB,Persib,26
+867,Ahmed Maknzi,24,Iraq,LB,Al-Karma,15
+868,Merchas Doski,26,Iraq,LB,Viktoria Plzeň,23
+869,Hussein Ali,24,Iraq,RB,Pogoń Szczecin,3
+870,Mustafa Saadoon,25,Iraq,RB,Al-Shorta,25
+871,Zaid Ismail,24,Iraq,CDM,Al-Talaba,24
+872,Amir Al-Ammari,28,Iraq,CM,Cracovia,16
+873,Aimar Sher,23,Iraq,CM,Sarpsborg 08,20
+874,Ibrahim Bayesh,26,Iraq,CAM,Al Dhafra,8
+875,Zidane Iqbal,23,Iraq,CAM,Utrecht,14
+876,Kevin Yakob,25,Iraq,CAM,AGF,19
+877,Youssef Amyn,22,Iraq,LW,AEK Larnaca,7
+878,Ali Jasim,22,Iraq,LW,Al-Najma,17
+879,Ahmed Qasem,22,Iraq,RW,Nashville SC,11
+880,Marko Farji,22,Iraq,RW,Venezia,21
+881,Ali Al-Hamadi,24,Iraq,ST,Luton Town,9
+882,Mohanad Ali,25,Iraq,ST,Dibba,10
+883,Ali Yousif,30,Iraq,ST,Al-Talaba,13
+884,Aymen Hussein,30,Iraq,ST,Al-Karma,18
+885,Ørjan Nyland,35,Norway,GK,Sevilla,1
+886,Sander Tangvik,23,Norway,GK,Hamburger SV,12
+887,Egil Selvik,28,Norway,GK,Watford,13
+888,Kristoffer Ajer,28,Norway,CB,Brentford,3
+889,Leo Østigård,26,Norway,CB,Genoa,4
+890,Torbjørn Heggem,27,Norway,CB,Bologna,17
+891,Sondre Langås,25,Norway,CB,Derby County,24
+892,Henrik Falchener,23,Norway,CB,Viking,25
+893,David Møller Wolfe,24,Norway,LB,Wolverhampton Wanderers,5
+894,Fredrik André Bjørkan,27,Norway,LB,Bodø/Glimt,15
+895,Marcus Holmgren Pedersen,25,Norway,RB,Torino,16
+896,Julian Ryerson,28,Norway,RB,Borussia Dortmund,26
+897,Patrick Berg,28,Norway,CDM,Bodø/Glimt,6
+898,Sander Berge,28,Norway,CDM,Fulham,8
+899,Morten Thorsby,30,Norway,CM,Cremonese,2
+900,Fredrik Aursnes,30,Norway,CM,Benfica,14
+901,Kristian Thorstvedt,27,Norway,CM,Sassuolo,18
+902,Martin Ødegaard,27,Norway,CAM,Arsenal,10
+903,Thelo Aasgaard,24,Norway,CAM,Rangers,19
+904,Antonio Nusa,21,Norway,LW,RB Leipzig,20
+905,Jens Petter Hauge,26,Norway,LW,Bodø/Glimt,23
+906,Andreas Schjelderup,22,Norway,RW,Benfica,21
+907,Oscar Bobb,22,Norway,RW,Fulham,22
+908,Alexander Sørloth,30,Norway,ST,Atlético Madrid,7
+909,Erling Haaland,25,Norway,ST,Manchester City,9
+910,Jørgen Strand Larsen,26,Norway,ST,Crystal Palace,11
+911,Yehvann Diouf,26,Senegal,GK,Nice,1
+912,Édouard Mendy,34,Senegal,GK,Al-Ahli,16
+913,Mory Diaw,32,Senegal,GK,Le Havre,23
+914,Mamadou Sarr,20,Senegal,CB,Chelsea,2
+915,Kalidou Koulibaly,34,Senegal,CB,Al-Hilal,3
+916,Abdoulaye Seck,34,Senegal,CB,Maccabi Haifa,4
+917,Moussa Niakhaté,30,Senegal,CB,Lyon,19
+918,Ismail Jakobs,26,Senegal,LB,Galatasaray,14
+919,El Hadji Malick Diouf,21,Senegal,LB,West Ham United,25
+920,Krépin Diatta,27,Senegal,RB,Monaco,15
+921,Antoine Mendy,22,Senegal,RB,Nice,24
+922,Idrissa Gueye,36,Senegal,CDM,Everton,5
+923,Pathé Ciss,32,Senegal,CDM,Rayo Vallecano,6
+924,Pape Gueye,27,Senegal,CDM,Villarreal,26
+925,Lamine Camara,22,Senegal,CM,Monaco,8
+926,Pape Matar Sarr,23,Senegal,CM,Tottenham Hotspur,17
+927,Habib Diarra,22,Senegal,CM,Sunderland,21
+928,Bara Sapoko Ndiaye,18,Senegal,CM,Bayern Munich,22
+929,Iliman Ndiaye,26,Senegal,CAM,Everton,13
+930,Sadio Mané,34,Senegal,LW,Al-Nassr,10
+931,Ibrahim Mbaye,18,Senegal,LW,Paris Saint-Germain,20
+932,Assane Diao,20,Senegal,RW,Como,7
+933,Ismaïla Sarr,28,Senegal,RW,Crystal Palace,18
+934,Bamba Dieng,26,Senegal,ST,Lorient,9
+935,Nicolas Jackson,24,Senegal,ST,Bayern Munich,11
+936,Cherif Ndiaye,30,Senegal,ST,Samsunspor,12
+937,Melvin Mastil,26,Algeria,GK,Stade Nyonnais,1
+938,Oussama Benbot,31,Algeria,GK,USM Alger,16
+939,Luca Zidane,28,Algeria,GK,Granada,23
+940,Aïssa Mandi,34,Algeria,CB,Lille,2
+941,Mohamed Amine Tougai,26,Algeria,CB,Espérance de Tunis,4
+942,Zineddine Belaïd,27,Algeria,CB,JS Kabylie,5
+943,Ramy Bensebaini,31,Algeria,CB,Borussia Dortmund,21
+944,Samir Chergui,27,Algeria,CB,Paris FC,26
+945,Achref Abada,26,Algeria,LB,USM Alger,3
+946,Jaouen Hadjam,23,Algeria,LB,Young Boys,13
+947,Rayan Aït-Nouri,25,Algeria,LB,Manchester City,15
+948,Rafik Belghali,24,Algeria,RB,Hellas Verona,17
+949,Ramiz Zerrouki,28,Algeria,CDM,Twente,6
+950,Nabil Bentaleb,31,Algeria,CDM,Lille,19
+951,Houssem Aouar,27,Algeria,CM,Al-Ittihad,8
+952,Hicham Boudaoui,26,Algeria,CM,Nice,14
+953,Yacine Titraoui,22,Algeria,CM,Charleroi,24
+954,Farès Chaïbi,23,Algeria,CAM,Eintracht Frankfurt,10
+955,Ibrahim Maza,20,Algeria,CAM,Bayer Leverkusen,22
+956,Anis Hadj Moussa,24,Algeria,LW,Feyenoord,11
+957,Adil Boulbina,23,Algeria,LW,Al-Duhail,20
+958,Riyad Mahrez,35,Algeria,RW,Al-Ahli,7
+959,Farès Ghedjemis,23,Algeria,RW,Frosinone,25
+960,Amine Gouiri,26,Algeria,ST,Marseille,9
+961,Nadhir Benbouali,26,Algeria,ST,Gyōri ETO,12
+962,Mohamed Amoura,26,Algeria,ST,VfL Wolfsburg,18
+963,Juan Musso,32,Argentina,GK,Atlético Madrid,1
+964,Gerónimo Rulli,34,Argentina,GK,Marseille,12
+965,Emiliano Martínez,33,Argentina,GK,Aston Villa,23
+966,Marcos Senesi,29,Argentina,CB,Bournemouth,2
+967,Lisandro Martínez,28,Argentina,CB,Manchester United,6
+968,Cristian Romero,28,Argentina,CB,Tottenham Hotspur,13
+969,Nicolás Otamendi,38,Argentina,CB,Benfica,19
+970,Facundo Medina,27,Argentina,CB,Marseille,25
+971,Nicolás Tagliafico,33,Argentina,LB,Lyon,3
+972,Valentín Barco,21,Argentina,LB,Strasbourg,8
+973,Gonzalo Montiel,29,Argentina,RB,River Plate,4
+974,Nahuel Molina,28,Argentina,RB,Atlético Madrid,26
+975,Leandro Paredes,31,Argentina,CDM,Boca Juniors,5
+976,Enzo Fernández,25,Argentina,CDM,Chelsea,24
+977,Rodrigo De Paul,32,Argentina,CM,Inter Miami CF,7
+978,Exequiel Palacios,27,Argentina,CM,Bayer Leverkusen,14
+979,Alexis Mac Allister,27,Argentina,CM,Liverpool,20
+980,Giovani Lo Celso,30,Argentina,CAM,Real Betis,11
+981,Thiago Almada,25,Argentina,CAM,Atlético Madrid,16
+982,Nico Paz,21,Argentina,CAM,Como,18
+983,Nicolás González,28,Argentina,LW,Atlético Madrid,15
+984,Giuliano Simeone,23,Argentina,LW,Atlético Madrid,17
+985,Lionel Messi,38,Argentina,RW,Inter Miami CF,10
+986,Julián Alvarez,26,Argentina,ST,Atlético Madrid,9
+987,José Manuel López,25,Argentina,ST,Palmeiras,21
+988,Lautaro Martínez,28,Argentina,ST,Inter Milan,22
+989,Alexander Schlager,30,Austria,GK,Red Bull Salzburg,1
+990,Florian Wiegele,25,Austria,GK,Viktoria Plzeň,12
+991,Patrick Pentz,29,Austria,GK,Brøndby,13
+992,David Affengruber,25,Austria,CB,Elche,2
+993,Kevin Danso,27,Austria,CB,Tottenham Hotspur,3
+994,Philipp Lienhart,29,Austria,CB,SC Freiburg,15
+995,Marco Friedl,28,Austria,CB,Werder Bremen,23
+996,Michael Svoboda,27,Austria,CB,Venezia,25
+997,David Alaba,33,Austria,LB,Real Madrid,8
+998,Phillipp Mwene,32,Austria,LB,Mainz 05,16
+999,Stefan Posch,29,Austria,RB,Mainz 05,5
+1000,Xaver Schlager,28,Austria,CDM,RB Leipzig,4
+1001,Nicolas Seiwald,25,Austria,CDM,RB Leipzig,6
+1002,Florian Grillitsch,30,Austria,CDM,Braga,10
+1003,Marcel Sabitzer,32,Austria,CM,Borussia Dortmund,9
+1004,Konrad Laimer,29,Austria,CM,Bayern Munich,20
+1005,Alexander Prass,25,Austria,CM,TSG Hoffenheim,22
+1006,Alessandro Schöpf,32,Austria,CM,Wolfsberger AC,26
+1007,Carney Chukwuemeka,22,Austria,CAM,Borussia Dortmund,17
+1008,Romano Schmid,26,Austria,CAM,Werder Bremen,18
+1009,Dejan Ljubičić,28,Austria,CAM,Schalke 04,19
+1010,Paul Wanner,20,Austria,CAM,PSV Eindhoven,24
+1011,Patrick Wimmer,25,Austria,LW,VfL Wolfsburg,21
+1012,Marko Arnautović,37,Austria,ST,Red Star Belgrade,7
+1013,Michael Gregoritsch,32,Austria,ST,FC Augsburg,11
+1014,Saša Kalajdžić,28,Austria,ST,LASK,14
+1015,Yazeed Abulaila,33,Jordan,GK,Al-Hussein,1
+1016,Nour Bani Attiah,33,Jordan,GK,Al-Faisaly,12
+1017,Abdallah Al-Fakhouri,26,Jordan,GK,Al-Wehdat,22
+1018,Abdallah Nasib,32,Jordan,CB,Al-Zawraa,3
+1019,Husam Abu Dahab,26,Jordan,CB,Al-Faisaly,4
+1020,Yazan Al-Arab,30,Jordan,CB,FC Seoul,5
+1021,Salim Obaid,34,Jordan,CB,Al-Hussein,17
+1022,Saed Al-Rosan,29,Jordan,CB,Al-Hussein,19
+1023,Mohammad Abu Hashish,31,Jordan,LB,Al-Karma,2
+1024,Mo Abualnadi,25,Jordan,LB,Selangor,16
+1025,Ihsan Haddad,32,Jordan,RB,Al-Hussein,23
+1026,Anas Badawi,28,Jordan,RB,Al-Faisaly,26
+1027,Rajaei Ayed,32,Jordan,CDM,Al-Hussein,14
+1028,Nizar Al-Rashdan,27,Jordan,CDM,Qatar SC,21
+1029,Amer Jamous,23,Jordan,CM,Al-Zawraa,6
+1030,Noor Al-Rawabdeh,29,Jordan,CM,Selangor,8
+1031,Ibrahim Sadeh,26,Jordan,CM,Al-Karma,15
+1032,Mohammad Taha,20,Jordan,CM,Al-Hussein,18
+1033,Mohammad Al-Dawoud,34,Jordan,CM,Al-Wehdat,25
+1034,Mohannad Abu Taha,23,Jordan,CAM,Al-Quwa Al-Jawiya,20
+1035,Mohammad Abu Zrayq,28,Jordan,LW,Raja Casablanca,7
+1036,Mahmoud Al-Mardi,32,Jordan,LW,Al-Hussein,13
+1037,Musa Al-Taamari,29,Jordan,RW,Rennes,10
+1038,Odeh Al-Fakhouri,20,Jordan,RW,Pyramids,11
+1039,Ali Azaizeh,22,Jordan,RW,Al-Shabab,24
+1040,Ali Olwan,26,Jordan,ST,Al-Sailiya,9
+1041,David Ospina,37,Colombia,GK,Atlético Nacional,1
+1042,Camilo Vargas,37,Colombia,GK,Atlas,12
+1043,Álvaro Montero,31,Colombia,GK,Vélez Sarsfield,24
+1044,Jhon Lucumí,27,Colombia,CB,Bologna,3
+1045,Yerry Mina,31,Colombia,CB,Cagliari,13
+1046,Willer Ditta,28,Colombia,CB,Cruz Azul,18
+1047,Davinson Sánchez,29,Colombia,CB,Galatasaray,23
+1048,Johan Mojica,33,Colombia,LB,Mallorca,17
+1049,Deiver Machado,32,Colombia,LB,Nantes,22
+1050,Daniel Muñoz,30,Colombia,RB,Crystal Palace,2
+1051,Santiago Arias,34,Colombia,RB,Independiente,4
+1052,Gustavo Puerta,22,Colombia,RB,Racing Santander,14
+1053,Kevin Castaño,25,Colombia,CDM,River Plate,5
+1054,Jefferson Lerma,31,Colombia,CDM,Crystal Palace,16
+1055,Richard Ríos,26,Colombia,CM,Benfica,6
+1056,Juan Portilla,27,Colombia,CM,Athletico Paranaense,15
+1057,Jorge Carrascal,28,Colombia,CAM,Flamengo,8
+1058,James Rodríguez,34,Colombia,CAM,Minnesota United FC,10
+1059,Juan Fernando Quintero,33,Colombia,CAM,River Plate,20
+1060,Luis Díaz,29,Colombia,LW,Bayern Munich,7
+1061,Jaminton Campaz,26,Colombia,LW,Rosario Central,21
+1062,Jhon Arias,28,Colombia,RW,Palmeiras,11
+1063,Andrés Gómez,23,Colombia,RW,Vasco da Gama,26
+1064,Jhon Córdoba,33,Colombia,ST,Krasnodar,9
+1065,Cucho Hernández,27,Colombia,ST,Real Betis,19
+1066,Luis Suárez,28,Colombia,ST,Sporting CP,25
+1067,Lionel Mpasi,31,DR Congo,GK,Le Havre,1
+1068,Timothy Fayulu,26,DR Congo,GK,Noah,16
+1069,Matthieu Epolo,21,DR Congo,GK,Standard Liège,21
+1070,Steve Kapuadi,28,DR Congo,CB,Widzew Łódź,3
+1071,Axel Tuanzebe,28,DR Congo,CB,Burnley,4
+1072,Dylan Batubinsika,30,DR Congo,CB,AEL,5
+1073,Chancel Mbemba,31,DR Congo,CB,Lille,22
+1074,Joris Kayembe,31,DR Congo,LB,Genk,12
+1075,Arthur Masuaku,32,DR Congo,LB,Lens,26
+1076,Aaron Wan-Bissaka,28,DR Congo,RB,West Ham United,2
+1077,Gédéon Kalulu,28,DR Congo,RB,Aris Limassol,24
+1078,Ngal'ayel Mukau,21,DR Congo,CDM,Lille,6
+1079,Charles Pickel,29,DR Congo,CDM,Espanyol,18
+1080,Samuel Moutoussamy,29,DR Congo,CM,Atromitos,8
+1081,Noah Sadiki,21,DR Congo,CM,Sunderland,14
+1082,Aaron Tshibola,31,DR Congo,CM,Kilmarnock,15
+1083,Edo Kayembe,28,DR Congo,CM,Watford,25
+1084,Théo Bongonda,30,DR Congo,CAM,Spartak Moscow,10
+1085,Nathanaël Mbuku,24,DR Congo,LW,Montpellier,7
+1086,Meschak Elia,28,DR Congo,LW,Alanyaspor,13
+1087,Yoane Wissa,29,DR Congo,LW,Newcastle United,20
+1088,Brian Cipenga,28,DR Congo,RW,Castellón,9
+1089,Gaël Kakuta,34,DR Congo,RW,AEL,11
+1090,Cédric Bakambu,35,DR Congo,ST,Real Betis,17
+1091,Fiston Mayele,31,DR Congo,ST,Pyramids,19
+1092,Simon Banza,29,DR Congo,ST,Al Jazira,23
+1093,Diogo Costa,26,Portugal,GK,Porto,1
+1094,José Sá,33,Portugal,GK,Wolverhampton Wanderers,12
+1095,Rui Silva,32,Portugal,GK,Sporting CP,22
+1096,Rúben Dias,29,Portugal,CB,Manchester City,3
+1097,Tomás Araújo,24,Portugal,CB,Benfica,4
+1098,Renato Veiga,22,Portugal,CB,Villarreal,13
+1099,Gonçalo Inácio,24,Portugal,CB,Sporting CP,14
+1100,Nuno Mendes,23,Portugal,LB,Paris Saint-Germain,25
+1101,Nélson Semedo,32,Portugal,RB,Fenerbahçe,2
+1102,Diogo Dalot,27,Portugal,RB,Manchester United,5
+1103,João Cancelo,32,Portugal,RB,Barcelona,20
+1104,Rúben Neves,29,Portugal,CDM,Al-Hilal,21
+1105,Samú Costa,25,Portugal,CDM,Mallorca,24
+1106,Matheus Nunes,27,Portugal,CM,Manchester City,6
+1107,João Neves,21,Portugal,CM,Paris Saint-Germain,15
+1108,Vitinha,26,Portugal,CM,Paris Saint-Germain,23
+1109,Bruno Fernandes,31,Portugal,CAM,Manchester United,8
+1110,Bernardo Silva,31,Portugal,CAM,Manchester City,10
+1111,Rafael Leão,27,Portugal,LW,AC Milan,17
+1112,Gonçalo Guedes,29,Portugal,LW,Real Sociedad,19
+1113,Francisco Trincão,26,Portugal,RW,Sporting CP,16
+1114,Pedro Neto,26,Portugal,RW,Chelsea,18
+1115,Francisco Conceição,23,Portugal,RW,Juventus,26
+1116,Cristiano Ronaldo,41,Portugal,ST,Al-Nassr,7
+1117,Gonçalo Ramos,24,Portugal,ST,Paris Saint-Germain,9
+1118,João Félix,26,Portugal,ST,Al-Nassr,11
+1119,Utkir Yusupov,35,Uzbekistan,GK,Navbahor Namangan,1
+1120,Abduvohid Nematov,25,Uzbekistan,GK,Nasaf,12
+1121,Botirali Ergashev,30,Uzbekistan,GK,Neftchi Fergana,16
+1122,Abdukodir Khusanov,22,Uzbekistan,CB,Manchester City,2
+1123,Rustam Ashurmatov,29,Uzbekistan,CB,Esteghlal,5
+1124,Umar Eshmurodov,33,Uzbekistan,CB,Nasaf,15
+1125,Abdulla Abdullaev,28,Uzbekistan,CB,Dibba,18
+1126,Avazbek Ulmasaliev,26,Uzbekistan,CB,AGMK,25
+1127,Jakhongir Urozov,22,Uzbekistan,CB,Dinamo Samarqand,26
+1128,Farrukh Sayfiev,35,Uzbekistan,LB,Neftchi Fergana,4
+1129,Sherzod Nasrullaev,27,Uzbekistan,LB,Nasaf,13
+1130,Bekhruz Karimov,18,Uzbekistan,LB,Surkhon Termiz,24
+1131,Khojiakbar Alijonov,29,Uzbekistan,RB,Pakhtakor,3
+1132,Akmal Mozgovoy,27,Uzbekistan,CDM,Pakhtakor,6
+1133,Odiljon Hamrobekov,30,Uzbekistan,CDM,Tractor,9
+1134,Otabek Shukurov,29,Uzbekistan,CM,Baniyas,7
+1135,Jamshid Iskanderov,32,Uzbekistan,CM,Neftchi Fergana,8
+1136,Azizjon Ganiev,28,Uzbekistan,CM,Al Bataeh,19
+1137,Sherzod Esanov,23,Uzbekistan,CM,Bukhara,23
+1138,Ruslanbek Jiyanov,25,Uzbekistan,CAM,Navbahor Namangan,10
+1139,Dostonbek Khamdamov,29,Uzbekistan,CAM,Pakhtakor,17
+1140,Abbosbek Fayzullaev,22,Uzbekistan,CAM,İstanbul Başakşehir,22
+1141,Oston Urunov,25,Uzbekistan,LW,Persepolis,11
+1142,Azizbek Amonov,28,Uzbekistan,RW,Dinamo Samarqand,20
+1143,Eldor Shomurodov,30,Uzbekistan,ST,İstanbul Başakşehir,14
+1144,Igor Sergeev,33,Uzbekistan,ST,Persepolis,21
+1145,Dominik Livaković,31,Croatia,GK,Dinamo Zagreb,1
+1146,Ivor Pandur,26,Croatia,GK,Hull City,12
+1147,Dominik Kotarski,26,Croatia,GK,Copenhagen,23
+1148,Marin Pongračić,28,Croatia,CB,Fiorentina,3
+1149,Duje Ćaleta-Car,29,Croatia,CB,Real Sociedad,5
+1150,Josip Šutalo,26,Croatia,CB,Ajax,6
+1151,Luka Vušković,19,Croatia,CB,Hamburger SV,22
+1152,Martin Erlić,28,Croatia,CB,Midtjylland,25
+1153,Joško Gvardiol,24,Croatia,LB,Manchester City,4
+1154,Josip Stanišić,26,Croatia,RB,Bayern Munich,2
+1155,Kristijan Jakić,29,Croatia,RB,FC Augsburg,18
+1156,Nikola Moro,28,Croatia,CDM,Bologna,7
+1157,Petar Sučić,22,Croatia,CDM,Inter Milan,17
+1158,Mateo Kovačić,32,Croatia,CM,Manchester City,8
+1159,Luka Modrić,40,Croatia,CM,AC Milan,10
+1160,Mario Pašalić,31,Croatia,CM,Atalanta,15
+1161,Nikola Vlašić,28,Croatia,CAM,Torino,13
+1162,Martin Baturina,23,Croatia,CAM,Como,16
+1163,Toni Fruk,25,Croatia,CAM,Rijeka,19
+1164,Luka Sučić,23,Croatia,CAM,Real Sociedad,21
+1165,Ivan Perišić,37,Croatia,LW,PSV Eindhoven,14
+1166,Marco Pašalić,25,Croatia,RW,Orlando City SC,24
+1167,Andrej Kramarić,34,Croatia,ST,TSG Hoffenheim,9
+1168,Ante Budimir,34,Croatia,ST,Osasuna,11
+1169,Igor Matanović,23,Croatia,ST,SC Freiburg,20
+1170,Petar Musa,28,Croatia,ST,FC Dallas,26
+1171,Jordan Pickford,32,England,GK,Everton,1
+1172,Dean Henderson,29,England,GK,Crystal Palace,13
+1173,James Trafford,23,England,GK,Manchester City,23
+1174,Ezri Konsa,28,England,CB,Aston Villa,2
+1175,John Stones,32,England,CB,Manchester City,5
+1176,Marc Guéhi,25,England,CB,Manchester City,6
+1177,Trevoh Chalobah,26,England,CB,Chelsea,12
+1178,Jarell Quansah,23,England,CB,Bayer Leverkusen,26
+1179,Nico O'Reilly,21,England,LB,Manchester City,3
+1180,Dan Burn,34,England,LB,Newcastle United,15
+1181,Reece James,26,England,RB,Chelsea,24
+1182,Djed Spence,25,England,RB,Tottenham Hotspur,25
+1183,Declan Rice,27,England,CDM,Arsenal,4
+1184,Kobbie Mainoo,21,England,CDM,Manchester United,16
+1185,Elliot Anderson,23,England,CM,Nottingham Forest,8
+1186,Jordan Henderson,35,England,CM,Brentford,14
+1187,Jude Bellingham,22,England,CAM,Real Madrid,10
+1188,Morgan Rogers,23,England,CAM,Aston Villa,17
+1189,Eberechi Eze,27,England,CAM,Arsenal,21
+1190,Marcus Rashford,28,England,LW,Barcelona,11
+1191,Anthony Gordon,25,England,LW,Newcastle United,18
+1192,Bukayo Saka,24,England,RW,Arsenal,7
+1193,Noni Madueke,24,England,RW,Arsenal,20
+1194,Harry Kane,32,England,ST,Bayern Munich,9
+1195,Ollie Watkins,30,England,ST,Aston Villa,19
+1196,Ivan Toney,30,England,ST,Al-Ahli,22
+1197,Lawrence Ati-Zigi,29,Ghana,GK,St. Gallen,1
+1198,Joseph Anang,26,Ghana,GK,St Patrick's Athletic,12
+1199,Benjamin Asare,33,Ghana,GK,Hearts of Oak,16
+1200,Jonas Adjetey,22,Ghana,CB,VfL Wolfsburg,4
+1201,Abdul Mumin,28,Ghana,CB,Rayo Vallecano,6
+1202,Jerome Opoku,27,Ghana,CB,İstanbul Başakşehir,18
+1203,Kojo Peprah Oppong,22,Ghana,CB,Nice,21
+1204,Derrick Luckassen,30,Ghana,CB,Pafos,23
+1205,Gideon Mensah,27,Ghana,LB,Auxerre,14
+1206,Abdul Rahman Baba,31,Ghana,LB,PAOK,17
+1207,Alidu Seidu,26,Ghana,RB,Rennes,2
+1208,Marvin Senaya,25,Ghana,RB,Auxerre,26
+1209,Thomas Partey,32,Ghana,CDM,Villarreal,5
+1210,Elisha Owusu,28,Ghana,CDM,Auxerre,15
+1211,Caleb Yirenkyi,20,Ghana,CM,Nordsjælland,3
+1212,Kwasi Sibo,27,Ghana,CM,Oviedo,8
+1213,Augustine Boakye,25,Ghana,CM,Saint-Étienne,20
+1214,Antoine Semenyo,26,Ghana,CAM,Manchester City,11
+1215,Iñaki Williams,31,Ghana,LW,Athletic Bilbao,19
+1216,Kamaldeen Sulemana,24,Ghana,LW,Atalanta,22
+1217,Abdul Fatawu,22,Ghana,RW,Leicester City,7
+1218,Christopher Bonsu Baah,21,Ghana,RW,Al-Qadsiah,13
+1219,Ernest Nuamah,22,Ghana,RW,Lyon,24
+1220,Jordan Ayew,34,Ghana,ST,Leicester City,9
+1221,Brandon Thomas-Asante,27,Ghana,ST,Coventry City,10
+1222,Prince Kwabena Adu,22,Ghana,ST,Viktoria Plzeň,25
+1223,Luis Mejía,35,Panama,GK,Nacional,1
+1224,César Samudio,32,Panama,GK,Marathón,12
+1225,Orlando Mosquera,31,Panama,GK,Al-Fayha,22
+1226,José Córdoba,25,Panama,CB,Norwich City,3
+1227,Fidel Escobar,31,Panama,CB,Saprissa,4
+1228,Edgardo Fariña,24,Panama,CB,Pari Nizhny Novgorod,5
+1229,Jiovany Ramos,29,Panama,CB,Puerto Cabello,13
+1230,Carlos Harvey,26,Panama,CB,Minnesota United FC,14
+1231,Roderick Miller,34,Panama,CB,Turan Tovuz,25
+1232,Eric Davis,35,Panama,LB,Plaza Amador,15
+1233,Andrés Andrade,27,Panama,LB,LASK,16
+1234,Jorge Gutiérrez,27,Panama,LB,Deportivo La Guaira,26
+1235,César Blackman,28,Panama,RB,Slovan Bratislava,2
+1236,Michael Amir Murillo,30,Panama,RB,Beşiktaş,23
+1237,Cristian Martínez,29,Panama,CDM,Ironi Kiryat Shmona,6
+1238,Aníbal Godoy,36,Panama,CDM,San Diego FC,20
+1239,Adalberto Carrasquilla,27,Panama,CM,Pumas UNAM,8
+1240,Alberto Quintero,38,Panama,CM,Plaza Amador,19
+1241,José Luis Rodríguez,27,Panama,CAM,Juárez,7
+1242,Yoel Bárcenas,32,Panama,CAM,Mazatlán,11
+1243,César Yanis,30,Panama,CAM,Cobresal,21
+1244,Ismael Díaz,29,Panama,LW,León,10
+1245,Tomás Rodríguez,27,Panama,ST,Saprissa,9
+1246,José Fajardo,32,Panama,ST,Universidad Católica,17
+1247,Cecilio Waterman,35,Panama,ST,Universidad de Concepción,18
+1248,Azarias Londoño,24,Panama,ST,Universidad Católica,24
